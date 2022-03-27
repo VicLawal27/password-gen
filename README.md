@@ -11,4 +11,4 @@
 
 ## Description
 
-### This web application is a random password generator which will ask the user to select the criteria they need for their password and generate it randomly.
+### This web application is a random password generator coded with javascript which will ask the user to select the criteria they need for their password and generate it randomly.
